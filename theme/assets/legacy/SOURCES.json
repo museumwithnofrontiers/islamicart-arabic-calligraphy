@@ -1,4 +1,101 @@
 {
-  "about": "TODO(dataset): written by inventory-app's scripts/minisites/legacy-minisite.mjs, with every picture of the frame taken from the legacy exhibition.",
-  "files": {}
+  "about": "The frame this website takes from legacy Discover Islamic Art's virtual exhibition Arabic Calligraphy (exhibitions/ISL/arabic_calligraphy/), each file as legacy serves it, byte for byte; the curators' logos come from the exhibitions' shared sponsor_logo folder. tests/assets.test.js checks every file against its hash.",
+  "files": {
+    "theme/assets/legacy/arrow_inner_black.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/arrow_inner_black.gif",
+      "sha256": "a969e5e62fe3c75dcb4e05ef1ca4e38f67a528916db802c229511b44567bd87a"
+    },
+    "theme/assets/legacy/bg_fading_left.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/bg_fading_left.gif",
+      "sha256": "fe6535a00ad51403d75fc4449fb9e7f165dcfc2013d6bc7ed241d461e4808ff0"
+    },
+    "theme/assets/legacy/bg_fading_right.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/bg_fading_right.gif",
+      "sha256": "bb3257e8a3a470d6d6dbda92632a92687683617cde0f0295855170e1eb58176e"
+    },
+    "theme/assets/legacy/ET-19.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/ET-19.gif",
+      "sha256": "010df664511a6235e1045ceb99cea1982c3040e89dd81eecab87c5cd2eedc881"
+    },
+    "theme/assets/legacy/exhibition_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/exhibition_bg_ar.jpg",
+      "sha256": "7ef1367fa96e2fa49ee43aba9bd6ac8ac6891f3ecffa3bc5d8d7b2ae7c6c29e7"
+    },
+    "theme/assets/legacy/exhibition_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/exhibition_bg.jpg",
+      "sha256": "7ef1367fa96e2fa49ee43aba9bd6ac8ac6891f3ecffa3bc5d8d7b2ae7c6c29e7"
+    },
+    "theme/assets/legacy/GL-19.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/GL-19.gif",
+      "sha256": "96ebeab97ec7974413ef67e295fba4c494ad72c5842581b8443df2d7b9370a87"
+    },
+    "theme/assets/legacy/home_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/home_bg_ar.jpg",
+      "sha256": "7d105e719fd8c6a54ef0cbd84188b1aca112f9141309f6292f3ae3e64ec69f78"
+    },
+    "theme/assets/legacy/home_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/home_bg.jpg",
+      "sha256": "7208ca95f61989533f4ddca4c466caee320d7692192514cc75f54132fb3eafa6"
+    },
+    "theme/assets/legacy/ico_item_selected.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/ico_item_selected.gif",
+      "sha256": "8e4e35eebb1dda3a1495a2dc7a9d1a4611d9118f3f683a269823da701989feb5"
+    },
+    "theme/assets/legacy/ico_item.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/ico_item.gif",
+      "sha256": "0b630172707e2ed687751dd70acb096ef905a3ee56421c650c227520e10030c8"
+    },
+    "theme/assets/legacy/intro_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/intro_bg_ar.jpg",
+      "sha256": "184c36b62068db3b7d678840aa6c971e56f3198c513d83053a34f7d8f3eb719c"
+    },
+    "theme/assets/legacy/intro_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/intro_bg.jpg",
+      "sha256": "57324396d6aebd3df19d7411d25e9396d42f36fec60a9eba41cee9cf5357cae7"
+    },
+    "theme/assets/legacy/logo_ar.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/logo_ar.gif",
+      "sha256": "7f51c2a0e1a908f4e560523c2e93b4ee9a85cd365feb48257bf3b3e58a5142ae"
+    },
+    "theme/assets/legacy/logo_de.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/logo_de.gif",
+      "sha256": "76424248d962a1173a2a27771c1cf684e5adce83d82c3c2ece0684d5d52d847e"
+    },
+    "theme/assets/legacy/logo_en.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/logo_en.gif",
+      "sha256": "b30424e99e2e95a10b336847afb6db383ed3f98a39f74bb9c8cf1822c61fd355"
+    },
+    "theme/assets/legacy/logo_es.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/logo_es.gif",
+      "sha256": "b0e042e411956b4a7912cc985d70f037a14aa4b82150589df757ac9bc3c1426b"
+    },
+    "theme/assets/legacy/logo_fr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/logo_fr.gif",
+      "sha256": "fd70127b168a839dccb3eec3d857846d25273b6edc4d24ee13ddb6fa0520083a"
+    },
+    "theme/assets/legacy/logo_it.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/logo_it.gif",
+      "sha256": "fc3429c0b1313542d5a3b79cd2b043b73b21a7f2c7ad1e28784ed7b941a59aa0"
+    },
+    "theme/assets/legacy/logo_pt.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/logo_pt.gif",
+      "sha256": "c5316b893a794d7898fcaaacc5b9c0c51e0c5e11fcaceb5be77747a485043ca7"
+    },
+    "theme/assets/legacy/logo_se.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/logo_se.gif",
+      "sha256": "b7f99b6269e5682d8554c42f78410fc95c146a60c79d3ce55d55426c880b717e"
+    },
+    "theme/assets/legacy/logo_tr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/logo_tr.gif",
+      "sha256": "86306e8e7fa31fed5c018e9c8510d5043b88e52312de07335e40307e3565cc06"
+    },
+    "theme/assets/legacy/print_dark.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/arabic_calligraphy/images/print_dark.gif",
+      "sha256": "49894d52c06b6f8e1c29b0b3f82245bcd3f439108e4cd3a7c4f16360ed896742"
+    },
+    "theme/assets/legacy/TN-19.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/TN-19.gif",
+      "sha256": "a00584e9f796cd7cf66704a220a41094740ccc3254a3e7f28fe82aed994a2416"
+    }
+  }
 }
